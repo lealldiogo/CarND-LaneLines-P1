@@ -4,11 +4,12 @@ The goals / steps of this project are the following:
 * Make a pipeline that finds lane lines on the road
 * Reflect on your work in a written report
 
-[weighted_image]: ./test_images_output/whiteCarLaneSwitch.jpg "Lines drawn over test images using improved draw\_lines() function"
+[weighted_image]: ./test_images_output/whiteCarLaneSwitch_output.jpg "Lines drawn over test images using improved draw\_lines() function"
 
 [stuck]: ./left_line_stuck.png "Line stuck at the bottom of the video"
 
 [errors]: ./errors.png "Errors calculated from the test images"
+
 ---
 
 ## Reflection
